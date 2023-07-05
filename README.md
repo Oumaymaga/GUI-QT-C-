@@ -1,1 +1,1 @@
-# GUI-QT-C-
+# GUI-QT-C++
